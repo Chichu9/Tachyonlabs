@@ -1,5 +1,4 @@
 # tachyonlabs.info
-TachyonLabs Site
 
 Fastest Solana Copy Trading CLI Bot 
 
