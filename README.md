@@ -5,6 +5,8 @@
 
 Fastest Solana Copy Trading CLI Bot - TachyonLabs
 
+Solana Copy Bot
+
 With 300+ users in the first month of its launch....Check out the succesful trades channel on our discord for user testimonials!!!
 
 Documentation: https://docs.tachyonlabs.info/
