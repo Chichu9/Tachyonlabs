@@ -5,7 +5,7 @@
 
 Fastest Solana Copy Trading CLI Bot - TachyonLabs
 
-With 300+ users in the first 2 months of it launch....Come out the succesful trades channel on our discord...
+With 300+ users in the first month of its launch....Come out the succesful trades channel on our discord...
 
 Documentation: https://docs.tachyonlabs.info/
 
