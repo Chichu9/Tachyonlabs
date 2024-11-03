@@ -26,3 +26,6 @@ Coming Soon:
 
 1) Meteora & Moonshot Support
 2) Take Profit & Stop Loss Support
+3) Auto Rebalance SOL & wSOL
+4) Ability to trade using SOL instead of wSOL on all Dexes
+5) WebHooks to manually trigger sell using discord commands
