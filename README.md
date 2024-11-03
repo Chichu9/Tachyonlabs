@@ -5,9 +5,9 @@
 
 **Fastest Solana Copy Trading CLI Bot - TachyonLabs**
 
-**Experience the speed, reliability, and precision trusted by 300+ users within the first month!**
+Join hundreds of traders who’ve already experienced the speed, precision, and reliability of **TachyonLabs' Solana Copy Bot!**
 
-Join our thriving community to see real-time success stories and testimonials in the **#successful-trades** channel on Discord—proving why more traders are choosing TachyonLabs' Solana Copy Bot every day.
+Our community is growing fast, with real-time success stories and testimonials in the **#successful-trades** channel on Discord—showing why traders are choosing TachyonLabs to stay ahead in the market.
 
 **Documentation:** https://docs.tachyonlabs.info/
 
