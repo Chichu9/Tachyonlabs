@@ -17,6 +17,7 @@ Join our thriving community to see real-time success stories and testimonials in
 Built for serious traders who need to move fast and stay flexible, TachyonLabs' Solana Copy Bot gives you the edge:
 
 **Powerful CLI-Based Flexibility**: Customize every aspect of the bot for maximum control over your trades.
+
 **Advanced DEX Support**: Raydium & Pump Fun supported, with more DEX integrations coming soon.
 **Unlimited Wallet Copying**: Mirror as many wallets as you want, without restrictions.
 **Exclusion List Control**: Easily exclude specific wallets, giving you tailored copying.
