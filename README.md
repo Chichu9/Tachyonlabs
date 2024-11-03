@@ -10,6 +10,7 @@
 Join our thriving community to see real-time success stories and testimonials in the **#successful-trades** channel on Discord—proving why more traders are choosing TachyonLabs' Solana Copy Bot every day.
 
 **Documentation:** https://docs.tachyonlabs.info/
+
 **Join the Movement on Discord:** https://discord.gg/tachyon
 
 **Why TachyonLabs' Solana Copy Bot?**
@@ -21,6 +22,8 @@ Built for serious traders who need to move fast and stay flexible, TachyonLabs' 
 3) **Unlimited Wallet Copying**: Mirror as many wallets as you want, without restrictions.
 4) **Exclusion List Control**: Easily exclude specific wallets, giving you tailored copying.
 5) **Precision Pricing**: Set individual quote prices per copy wallet for unmatched accuracy.
+
+**Coming Soon**
 
 The TachyonLabs team is always evolving to stay ahead of the market and our users' needs. Here’s what’s next:
 
