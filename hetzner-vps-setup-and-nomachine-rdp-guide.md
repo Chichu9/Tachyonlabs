@@ -57,3 +57,5 @@ Finally, check out the [NoMachine download page](https://downloads.nomachine.com
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Next, click the `Connect` button and enter your Ubuntu username (e.g., `root` as default) and password. If you've not set the password yet, you can simply do it interactively with `passwd` command.
+
+Link for More Advanced Instructions for NoMachine [https://kb.nomachine.com/DT07S00245](https://kb.nomachine.com/DT07S00245)
