@@ -4,23 +4,23 @@ description: VPS Setup Guide on Hetzner Cloud
 
 # Hetzner VPS Setup & NoMachine RDP Guide
 
-![Click on "\*\*New project\*\*"](<.gitbook/assets/0 (1).png>)
+![Click on "\*\*New project\*\*"](<.gitbook/assets/0 (1) (1).png>)
 
-![Click here](<.gitbook/assets/1 (1).png>)
+![Click here](<.gitbook/assets/1 (1) (1).png>)
 
-![Click on "\*\*Add project\*\*"](<.gitbook/assets/2 (1).png>)
+![Click on "\*\*Add project\*\*"](<.gitbook/assets/2 (1) (1).png>)
 
-![Click on  Project you want to create a VPS in](<.gitbook/assets/3 (1).png>)
+![Click on  Project you want to create a VPS in](<.gitbook/assets/3 (1) (1).png>)
 
-![Click on "\*\*Create Resource\*\*"](<.gitbook/assets/4 (1).png>)
+![Click on "\*\*Create Resource\*\*"](<.gitbook/assets/4 (1) (1).png>)
 
-![Click on "\*\*Servers\*\*"](<.gitbook/assets/5 (1).png>)
+![Click on "\*\*Servers\*\*"](<.gitbook/assets/5 (1) (1).png>)
 
-![Select your preferred region "\*\*Ashburn, VA\*\*"](<.gitbook/assets/6 (1).png>)
+![Select your preferred region "\*\*Ashburn, VA\*\*"](<.gitbook/assets/6 (1) (1).png>)
 
-![Select OS](<.gitbook/assets/7 (1).png>)
+![Select OS](<.gitbook/assets/7 (1) (1).png>)
 
-![Select Architecture](<.gitbook/assets/8 (1).png>)
+![Select Architecture](<.gitbook/assets/8 (1) (1).png>)
 
 ![Select VM Size](<.gitbook/assets/9 (1).png>)
 

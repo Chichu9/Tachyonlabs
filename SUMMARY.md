@@ -9,6 +9,7 @@
 ## Copy Bot Guide
 
 * [Introduction to Copy Trading](copy-bot-guide/introduction-to-copy-trading.md)
+* [Quick Start Guide](copy-bot-guide/quick-start-guide.md)
 * [Pre-Requisites](copy-bot-guide/pre-requisites.md)
 * [Configuration](copy-bot-guide/configuration.md)
 * [Optimized ENV Settings to Get started](copy-bot-guide/optimized-env-settings-to-get-started.md)
