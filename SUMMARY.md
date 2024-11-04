@@ -25,4 +25,4 @@
 ***
 
 * [Our Partners - Recommended RPC Providers](our-partners-recommended-rpc-providers.md)
-* [Hetzner VPS Setup Guide](hetzner-vps-setup-guide.md)
+* [Hetzner VPS Setup & NoMachine RDP Guide](hetzner-vps-setup-and-nomachine-rdp-guide.md)

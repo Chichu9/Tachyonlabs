@@ -10,13 +10,13 @@ To use the Tachyon Copybot, you'll need both SOL and Wrapped SOL (wSOL) in your 
 
     Open your web browser and go to [Jupiter](https://jup.ag/).
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 1.  **Connect Your Wallet**
 
     Click on the button to connect your wallet. Follow the prompts to authorize the connection.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1.  **Change Swap Settings**
 
