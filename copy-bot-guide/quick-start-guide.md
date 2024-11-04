@@ -25,7 +25,7 @@ copy\_wallets.json\
 excluded\_wallets.json\
 
 
-Instructions to update these files are in the configuration sections of this guide [https://app.gitbook.com/o/GvFS5qYG5swBoDJ5SaFV/s/Ps9F5QNsTJ4rjrGhAqhk/\~/changes/30/copy-bot-guide/configuration](configuration.md)
+Instructions to update these files are in the configuration sections of this guide - [Configuration](configuration.md)
 
 Run ./copy-bot – again
 
