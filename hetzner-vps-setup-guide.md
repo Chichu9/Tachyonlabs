@@ -33,3 +33,10 @@ description: VPS Setup Guide on Hetzner Cloud
 ![After your VPS is created - Launch the VPS Using the Console Button](<.gitbook/assets/13 (1).png>)
 
 ![Login using the Root Username & Password Provided in Email -- It will prompt you to change the password on initial login.](<.gitbook/assets/14 (1).png>)
+
+Optionally - You can install Ubuntu Desktop on your VPS using "Sudo apt-get install ubuntu-desktop"
+
+NoMachine to enable a better Remote Desktop solution to manage your VPS.
+
+
+
