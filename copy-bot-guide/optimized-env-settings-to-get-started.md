@@ -24,7 +24,7 @@ USE\_JITO=true&#x20;
 
 USE\_DEFAULT=true&#x20;
 
-CUSTOM\_FEE=0.0001&#x20;
+CUSTOM\_FEE=0.001&#x20;
 
 COMPUTE\_UNIT\_LIMIT=101337&#x20;
 
@@ -36,19 +36,19 @@ JITO\_TIP\_PERCENTILE=95&#x20;
 
 DELAY\_BETWEEN\_RETRIES=30000&#x20;
 
-QUOTE\_AMOUNT=0.05 \<How much you want to use for each trade>
+QUOTE\_AMOUNT=0.2 \<How much you want to use for each trade>
 
 MAX\_BUY\_RETRIES=1&#x20;
 
 BUY\_SLIPPAGE=300&#x20;
 
-BUY\_JITO\_FEE=0.0001&#x20;
+BUY\_JITO\_FEE=0.001&#x20;
 
 MAX\_SELL\_RETRIES=4&#x20;
 
 SELL\_SLIPPAGE=75&#x20;
 
-SELL\_JITO\_FEE=0.0001&#x20;
+SELL\_JITO\_FEE=0.001&#x20;
 
 RAYDIUM=true&#x20;
 
